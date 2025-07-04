@@ -1,7 +1,7 @@
-📘# 32-bit Barrel Shifter in SystemVerilog
+# 32-bit Barrel Shifter in SystemVerilog
 This project implements a 32-bit barrel shifter in SystemVerilog. It supports both logical and arithmetic shifts, in left and right directions.
 
-✅# Features:
+# Features:
 Input d: 32-bit data to be shifted.
 
 Input shamt: 5-bit shift amount (1 to 32).
